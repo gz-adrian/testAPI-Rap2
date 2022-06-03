@@ -1,0 +1,10 @@
+starting API
+
+in_class38/rap
+1. cd rap2  an API
+2. npm init enter enter yes
+3. npm install express --save
+
+  Gitignore
+4. touch .gitignore
+5. In the .gitignore type text inside: node_modules
