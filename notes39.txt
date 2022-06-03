@@ -8,3 +8,6 @@ in_class38/rap
   Gitignore
 4. touch .gitignore
 5. In the .gitignore type text inside: node_modules
+
+Setup to github heruko 
+https://www.twitch.tv/videos/1316131994?t=02h31m36s
