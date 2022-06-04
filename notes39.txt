@@ -16,4 +16,9 @@ cd rap2 folder - to restart/continue project
 
 heroku :
 !*: heroku login -i   !important if you have the 2-factor authorization 
-login without flag would be: heroku login
+login without flag would be: heroku login - was used for this project
+
+
+Heroku
+creating a folder:
+heroku create rap2-api-06-2-22
