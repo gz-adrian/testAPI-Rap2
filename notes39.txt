@@ -11,3 +11,9 @@ in_class38/rap
 
 Setup to github heruko 
 https://www.twitch.tv/videos/1316131994?t=02h31m36s
+
+cd rap2 folder - to restart/continue project
+
+heroku :
+!*: heroku login -i   !important if you have the 2-factor authorization 
+login without flag would be: heroku login
