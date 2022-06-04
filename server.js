@@ -37,9 +37,14 @@ app.get('/api/:name', (request, response) => {// [/'api'] it was called /:name
   }
 
 })
-
-app.listen(PORT, () => {
+//For H site
+// * ! environment variable added. https://www.twitch.tv/videos/1316131994?t=02h39m51s
+app.listen(process.env.PORT || PORT, () => {
   console.log(`The server is now running on port ${PORT}! Betta Go catch it!`)
 })
+//original
+// app.listen(PORT, () => {
+//   console.log(`The server is now running on port ${PORT}! Betta Go catch it!`)
+// })
 
 
