@@ -22,3 +22,7 @@ login without flag would be: heroku login - was used for this project
 Heroku
 creating a folder:
 heroku create rap2-api-06-2-22
+
+to run server in, similar to 'node server'
+Tell Heroku how to run my server
+* Bash Terminal: echo "web: node server.js" > Procfile
