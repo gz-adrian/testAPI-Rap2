@@ -2,10 +2,10 @@
 // const { response, Router } = require('express') //I think this is a mistake
 const express = require('express')
 const app = express()
-const cors = require('cors')// ! this might of fixed it
+// const cors = require('cors')// ! this might of fixed it
 const PORT = 8002
 
-app.use(cors()) // ! this might of fixed it
+// app.use(cors()) // ! this might of fixed it
 
 const rappers = { //savage list is the object. send it as a json object
   '21 savage': {
