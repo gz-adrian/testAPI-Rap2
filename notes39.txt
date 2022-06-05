@@ -32,4 +32,7 @@ git add. > git commit -m "text words" > git push heroku main
   github-
 Terminal: git push heroku main
 
+---
+npm install cors --save
+
 
