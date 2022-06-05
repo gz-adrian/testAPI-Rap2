@@ -23,6 +23,12 @@ login without flag would be: heroku login - was used for this project
 Heroku
 creating a folder:
 heroku create rap2-api-06-2-22
+--
+ors
+$ heroku create rap3
+Creating ⬢ rap3... done
+https://rap3.herokuapp.com/ | https://git.heroku.com/rap3.git   
+--
 
 to run server in, similar to 'node server'
 Tell Heroku how to run my server
@@ -33,6 +39,7 @@ git add. > git commit -m "text words" > git push heroku main
 Terminal: git push heroku main
 
 ---
+*
 npm install cors --save
 
 
