@@ -1,16 +1,10 @@
 /// more stuff here
 // const { response, Router } = require('express') //I think this is a mistake
 const express = require('express')
-/// more stuff here
-// const { response, Router } = require('express') //I think this is a mistake
-const express = require('express')
-/// more stuff here
-// const { response, Router } = require('express') //I think this is a mistake
-const express = require('express')
-/// more stuff here
-// const { response, Router } = require('express') //I think this is a mistake
-const express = require('express')
-/// more stuff here
+// more stufff to come
+// more stufff to come
+// more stufff to come
+// more stufff to come
 // const { response, Router } = require('express') //I think this is a mistake
 const express = require('express')
 const app = express()
@@ -37,31 +31,13 @@ const rappers = { //savage list is the object. send it as a json object
   },
 }
 
-// Note neeed 
 
-const rappers = { //savage list is the object. send it as a json object
-  '21 savage': {
-    'age': 29,
-    'birthName': 'Sheya Abraham-Joseph',
-    'birthLocation': 'London, England'
-  },
-  'charlie day': {
-    'age': 46,
-    'birthName': 'New York',
-    'birthLocation': 'New York, USA'
-  },
-  'unknown': {
-    'age': 0,
-    'birthName': 'unknown.',
-    'birthLocation': 'unknown'
-  },
-}
 //For H site
 // Note neeed 
 
 //For H site
 // Note neeed 
-
+// more
 
 //For H site
 // Note neeed 
