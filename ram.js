@@ -62,8 +62,6 @@ const rappers = { //savage list is the object. send it as a json object
 //For H site
 // Note neeed 
 
-//For H site
-// Note neeed 
 
 //For H site
 // Note neeed 
