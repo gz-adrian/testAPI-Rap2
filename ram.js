@@ -8,6 +8,9 @@ const PORT = 8002
 
 app.use(cors()) // ! this might of fixed it
 
+// more
+
+// to comet 
 const rappers = { //savage list is the object. send it as a json object
   '21 savage': {
     'age': 29,
